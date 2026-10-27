@@ -9,6 +9,27 @@ In Shelter, the State promises prosperity while engineered division keeps stone 
 
 The Maiden, Fealti, seeks worship and power. One represents justice and unity; Awe represents nature and the soul. Their conflict turns the party’s local choices into a struggle over freedom, creation, and the city’s future.
 
+## The divine cast
+
+<div style="display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:1.5rem;max-width:520px;margin:0 auto;">
+  <figure style="margin:0;text-align:center;">
+    <img src="Images/Maiden.png" style="width:100%;height:auto;" alt="Fealti, the Maiden">
+    <figcaption><em>Fealti — the Maiden</em></figcaption>
+  </figure>
+  <figure style="margin:0;text-align:center;">
+    <img src="Images/Justice.png" style="width:100%;height:auto;" alt="One, Justice">
+    <figcaption><em>One — Justice</em></figcaption>
+  </figure>
+  <figure style="margin:0;text-align:center;">
+    <img src="Images/Awe.png" style="width:100%;height:auto;" alt="Awe">
+    <figcaption><em>Awe — steward of nature</em></figcaption>
+  </figure>
+  <figure style="margin:0;text-align:center;">
+    <img src="Images/Maiden-Husband-Dragon.png" style="width:100%;height:auto;" alt="The Weeping Wyrm">
+    <figcaption><em>The Weeping Wyrm</em></figcaption>
+  </figure>
+</div>
+
 ## Reading the session records
 
 The original notes mix preparation and actual play. Each session separates recorded developments from prepared scenes or unresolved possibilities. Session 6 is a planning document, not a completed finale.

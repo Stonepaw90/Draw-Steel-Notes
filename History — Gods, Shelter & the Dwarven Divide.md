@@ -42,11 +42,31 @@ The Session 2 arson instructions explicitly seek to turn Gruin against flesh dwa
 
 The Four Elder Gods withdrew because their presence compromised mortal free will. Fealti, One, and Awe remained to love kindly, promote justice, and steward nature. Their icons authenticate their place in the world.
 
-![The three demigods: Justice, Fealti, and Awe](Images/Demigods.png)
-
-*The three demigods: Justice, Fealti, and Awe.*
+<div style="display:flex;gap:1rem;flex-wrap:wrap;justify-content:center;">
+  <figure style="margin:0;text-align:center;">
+    <img src="Images/Maiden.png" width="200" alt="Fealti, the Maiden">
+    <figcaption><em>Fealti — the Maiden</em></figcaption>
+  </figure>
+  <figure style="margin:0;text-align:center;">
+    <img src="Images/Justice.png" width="200" alt="One, Justice">
+    <figcaption><em>One — Justice</em></figcaption>
+  </figure>
+  <figure style="margin:0;text-align:center;">
+    <img src="Images/Awe.png" width="200" alt="Awe">
+    <figcaption><em>Awe — steward of nature</em></figcaption>
+  </figure>
+</div>
 
 Gods act through intermediaries and limited manifestations. Churches honor saints or heroes rather than gods; the Church of Eseld the Ultimate is associated with Cyrvis the Lich in the religion notes.
+
+### The Maiden and the Wyrm
+
+The Maiden’s estranged husband was once a dragon knight; jealousy and the marriage to power transformed him into the Weeping Wyrm. Their separation around 950 years ago marks the beginning of his burning of the wilderness beyond Shelter.
+
+<figure style="margin:1.5rem auto;text-align:center;">
+  <img src="Images/Maiden-Husband-Dragon.png" width="320" alt="The Maiden and her husband, the Weeping Wyrm">
+  <figcaption><em>The Maiden and her husband, the Weeping Wyrm.</em></figcaption>
+</figure>
 
 ## History of the Champion Games
 
@@ -58,13 +78,6 @@ On the 23rd of Rainmoot, the Thieves Guild killed the Dockworkers Union in State
 - The character notes place the dwarves’ peaceful coexistence and Thruthir’s rumors around 1,000 years ago; the timeline emphasizes the layer change around 900 years ago.
 - History calls the Wyrm’s separation a divorce; demigod lore portrays estrangement and a continuing power bond. The relationship’s formal status needs confirmation.
 - A proposed myth about Bik cursing a boulder appears under “Didn’t happen” in Campaign Notes. It is not treated here as established history.
-
-## Diagram check
-
-```mermaid
-flowchart LR
-    A --> B --> C
-```
 
 ## Original records
 

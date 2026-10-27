@@ -72,4 +72,25 @@ The quest notes place rebels in the slums and northern city. Survivors of arena 
 
 ## Maps and original detail
 
+### Shelter overview — labeled
+
+<figure style="margin:1rem 0;text-align:center;">
+  <img src="Images/Shelter-Map-Labels.png" style="width:100%;height:auto;" alt="Hand-drawn map of Shelter with labels for Leeland Farms, the City Reservoir, the Heart, the Seaport, the Great Temple, Blue and Red enclaves, Magnus, and Clay Construction">
+  <figcaption><em>Shelter: Leeland Farms, the City Reservoir, the Heart, the Seaport, the Great Temple, the Blue and Red enclaves, Magnus, and Clay Construction.</em></figcaption>
+</figure>
+
+### Shelter overview — unlabeled
+
+<figure style="margin:1rem 0;text-align:center;">
+  <img src="Images/Shelter-Map-No-Labels.png" style="width:100%;height:auto;" alt="Unlabeled hand-drawn map of Shelter">
+  <figcaption><em>The same map without labels, for marking new districts during play.</em></figcaption>
+</figure>
+
+### The Heart and the civic center
+
+<figure style="margin:1rem 0;text-align:center;">
+  <img src="Images/Shelter-Center-Map.png" style="width:100%;height:auto;" alt="Detail map of central Shelter showing Champion's Place, the Great Palace, the Museum, and a heavily guarded area marked R.B">
+  <figcaption><em>Central Shelter: Champion’s Place, the Great Palace, the Museum, and the heavily guarded area marked “R.B.”</em></figcaption>
+</figure>
+
 [[Setting]] · [[Quest List]] · [[One-Shot planning]]

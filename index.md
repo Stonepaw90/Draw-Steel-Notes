@@ -3,6 +3,11 @@ title: Vasloria — A Living Encyclopedia
 description: A living reference for the Vasloria campaign — the city of Shelter, its people, its history, and the heroes changing its future.
 ---
 
+<figure style="margin:0 0 1.5rem;text-align:center;">
+  <img src="Images/Demigods.png" style="width:100%;height:auto;" alt="The three demigods: Justice, Fealti, and Awe">
+  <figcaption><em>The three demigods: Justice, Fealti, and Awe.</em></figcaption>
+</figure>
+
 A living reference for the Vasloria campaign: the city of Shelter, its people, its history, and the heroes changing its future.
 
 > [!note] 🔒 Director's edition

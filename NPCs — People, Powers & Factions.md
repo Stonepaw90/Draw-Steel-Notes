@@ -18,17 +18,37 @@ The Four Elder Gods left three stewards: **Fealti, One, and Awe**. Their eyes an
 
 ### Fealti — The Maiden
 
+<figure style="margin:1rem auto;text-align:center;">
+  <img src="Images/Maiden.png" width="200" alt="Fealti, the Maiden">
+  <figcaption><em>Fealti — the Maiden</em></figcaption>
+</figure>
+
 Red-eyed, purple-skinned void elementalist; soft voice, smooth movements, strong perfume. Public benefactor and patron of the Champion Games. Wants power, worship, and a lasting legacy; greed is her defining flaw. Controls the Father of the Nation and collaborates with Awe on life-creation experiments. Her icon is a diamond ring with seven sister stones, recorded as stored beneath the museum. Portals and remote communication through fires are part of her repertoire.
 
 ### One — Justice
+
+<figure style="margin:1rem auto;text-align:center;">
+  <img src="Images/Justice.png" width="200" alt="One, Justice">
+  <figcaption><em>One — Justice</em></figcaption>
+</figure>
 
 Blue-eyed, scarred knight in worn chain armor. Disciplined, strict, weakened, and opposed to creating enslaved life. Gains strength through unity and justice. His shield is held in the museum. His own temptation is a rigid, legalistic society without compassion; he is not a flawless alternative to the Maiden.
 
 ### Awe
 
+<figure style="margin:1rem auto;text-align:center;">
+  <img src="Images/Awe.png" width="200" alt="Awe">
+  <figcaption><em>Awe — steward of nature</em></figcaption>
+</figure>
+
 Green-eyed nature steward, associated with trees, stone, birds, and a staff crowned with green branches and a nest. Speaks slowly, seeks freedom and nature, and does not want to lead. Serves Fealti partly to protect what remains of the natural world. Participates in experiments while seeking to improve the creatures’ lives. The burned wilderness weakens Awe.
 
 ### The Weeping Wyrm
+
+<figure style="margin:1rem auto;text-align:center;">
+  <img src="Images/Maiden-Husband-Dragon.png" width="260" alt="The Maiden and her husband, the Weeping Wyrm">
+  <figcaption><em>The Maiden and her husband, the Weeping Wyrm.</em></figcaption>
+</figure>
 
 The Maiden’s estranged husband, once a dragon knight elementalist. Jealousy and the marriage to power transformed him into a draconic being. He burns life outside Shelter and weeps in his lair. Setting notes describe shared power with the Maiden; history describes their separation around 950 years ago.
 
