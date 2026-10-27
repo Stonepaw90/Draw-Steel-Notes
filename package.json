@@ -1,0 +1,11 @@
+{
+  "name": "vasloria-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Quartz website generated from the Vasloria Obsidian vault",
+  "scripts": {
+    "dev": "npm --prefix .quartz run dev",
+    "build": "npm --prefix .quartz run build",
+    "serve": "npm --prefix .quartz run dev"
+  }
+}

@@ -1,0 +1,15 @@
+# Quartz build artifacts
+.quartz/node_modules/
+.quartz/public/
+.quartz/.quartz-cache/
+.quartz/.quartz-cache-*
+
+# Obsidian and OS noise
+.obsidian/
+.trash/
+.DS_Store
+Thumbs.db
+
+# Older export artifacts, not part of the published site
+md/
+obs.html/
