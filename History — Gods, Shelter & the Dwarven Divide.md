@@ -42,6 +42,10 @@ The Session 2 arson instructions explicitly seek to turn Gruin against flesh dwa
 
 The Four Elder Gods withdrew because their presence compromised mortal free will. Fealti, One, and Awe remained to love kindly, promote justice, and steward nature. Their icons authenticate their place in the world.
 
+![The three demigods: Justice, Fealti, and Awe](Images/Demigods.png)
+
+*The three demigods: Justice, Fealti, and Awe.*
+
 Gods act through intermediaries and limited manifestations. Churches honor saints or heroes rather than gods; the Church of Eseld the Ultimate is associated with Cyrvis the Lich in the religion notes.
 
 ## History of the Champion Games
@@ -54,6 +58,13 @@ On the 23rd of Rainmoot, the Thieves Guild killed the Dockworkers Union in State
 - The character notes place the dwarves’ peaceful coexistence and Thruthir’s rumors around 1,000 years ago; the timeline emphasizes the layer change around 900 years ago.
 - History calls the Wyrm’s separation a divorce; demigod lore portrays estrangement and a continuing power bond. The relationship’s formal status needs confirmation.
 - A proposed myth about Bik cursing a boulder appears under “Didn’t happen” in Campaign Notes. It is not treated here as established history.
+
+## Diagram check
+
+```mermaid
+flowchart LR
+    A --> B --> C
+```
 
 ## Original records
 
